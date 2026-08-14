@@ -23,3 +23,4 @@ There are also several - more esoteric - measures calculated
 - Fisher's exact test 
 - Variance ratio
 - Consumer cost case
+- Citation analysis
