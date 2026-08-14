@@ -17,4 +17,9 @@ And two secondary metrics
 
 They are published to files names Metrics 1-3 and Mape 1-3
 
+There are also several - more esoteric - measures calculated
 
+- Spearman's rank correlation
+- Fisher's exact test 
+- Variance ratio
+- Consumer cost case
